@@ -3,7 +3,7 @@ package com.sdk.publicsdk
 /**
  * Created by Hemant Thakare on 5/23/2022.
  */
-class Arithmetic {
+object Arithmetic {
 
     fun addition(a: Int, b: Int): Int {
         return a + b
