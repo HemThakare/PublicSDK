@@ -21,4 +21,8 @@ object Arithmetic {
         return a / b
     }
 
+    fun number(b: Int): Int{
+         return b
+    }
+
 }
