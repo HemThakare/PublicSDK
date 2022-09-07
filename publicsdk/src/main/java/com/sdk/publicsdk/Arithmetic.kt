@@ -17,7 +17,7 @@ object Arithmetic {
         return a * b
     }
 
-    fun division(a: Int, b: Int): Int {
+    fun division(a: Int, b: Int): Int{
         return a / b
     }
 
